@@ -1,0 +1,17 @@
+reporter: "xcode"
+
+disabled_rules:
+    - nesting
+    - type_body_length
+    - identifier_name
+
+line_length:
+    - 180
+
+identifier_name:
+    min_length: 2
+    max_length: 30
+
+type_name:
+    min_length: 2
+    max_length: 30

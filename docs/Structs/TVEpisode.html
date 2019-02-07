@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>TVEpisode Structure Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Struct/TVEpisode" class="dashAnchor"></a>
+    <a title="TVEpisode Structure Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html"> Docs</a> (0% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html"> Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        TVEpisode Structure Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB.html">TMDB</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/Utility.html">– Utility</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/Common.html">– Common</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/Movies.html">– Movies</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/People.html">– People</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/TV.html">– TV</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/ImageSize.html">ImageSize</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageSize/Backdrop.html">– Backdrop</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageSize/Logo.html">– Logo</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageSize/Poster.html">– Poster</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageSize/Profile.html">– Profile</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageSize/Still.html">– Still</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Protocols.html#/s:10tmdb_swift17ImageSizeProtocolP">ImageSizeProtocol</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/ContentRating.html">ContentRating</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Credits.html">Credits</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Credits/CastMember.html">– CastMember</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Credits/CrewMember.html">– CrewMember</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ExternalIDs.html">ExternalIDs</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Genre.html">Genre</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Image.html">Image</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Images.html">Images</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Keyword.html">Keyword</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Language.html">Language</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/List.html">List</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Movie.html">Movie</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Movie/ProductionCountry.html">– ProductionCountry</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Movie/Status.html">– Status</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Movie/ReleaseDate.html">– ReleaseDate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Movie/ReleaseDates.html">– ReleaseDates</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Person.html">Person</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ProductionCompany.html">ProductionCompany</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Results.html">Results</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/TVEpisode.html">TVEpisode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/TVNetwork.html">TVNetwork</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/TVNetwork/Logo.html">– Logo</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/TVSeason.html">TVSeason</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/TVShow.html">TVShow</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Title.html">Title</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Translation.html">Translation</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Translation/Info.html">– Info</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Video.html">Video</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Video/Category.html">– Category</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Typealiases.html">Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10tmdb_swift14ResultCallbacka">ResultCallback</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>TVEpisode</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TVEpisode</span> <span class="p">:</span> <span class="kt">Codable</span></code></pre>
+
+                </div>
+              </div>
+            <p>Undocumented</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV2ids5Int64Vvp"></a>
+                    <a name="//apple_ref/swift/Property/id" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV2ids5Int64Vvp">id</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">id</span><span class="p">:</span> <span class="kt">Int64</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV7airDate10Foundation0E0Vvp"></a>
+                    <a name="//apple_ref/swift/Property/airDate" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV7airDate10Foundation0E0Vvp">airDate</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">airDate</span><span class="p">:</span> <span class="kt">Date</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV4crewSayAA7CreditsV10CrewMemberVGSgvp"></a>
+                    <a name="//apple_ref/swift/Property/crew" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV4crewSayAA7CreditsV10CrewMemberVGSgvp">crew</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">crew</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="../Structs/Credits.html">Credits</a></span><span class="o">.</span><span class="kt">CrewMember</span><span class="p">]?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV6numberSuvp"></a>
+                    <a name="//apple_ref/swift/Property/number" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV6numberSuvp">number</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">number</span><span class="p">:</span> <span class="kt">UInt</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV10guestStarsSayAA7CreditsV10CastMemberVGSgvp"></a>
+                    <a name="//apple_ref/swift/Property/guestStars" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV10guestStarsSayAA7CreditsV10CastMemberVGSgvp">guestStars</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">guestStars</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="../Structs/Credits.html">Credits</a></span><span class="o">.</span><span class="kt">CastMember</span><span class="p">]?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV4nameSSvp"></a>
+                    <a name="//apple_ref/swift/Property/name" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV4nameSSvp">name</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV8overviewSSvp"></a>
+                    <a name="//apple_ref/swift/Property/overview" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV8overviewSSvp">overview</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">overview</span><span class="p">:</span> <span class="kt">String</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV14productionCodeSSSgvp"></a>
+                    <a name="//apple_ref/swift/Property/productionCode" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV14productionCodeSSSgvp">productionCode</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">productionCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV12seasonNumberSuvp"></a>
+                    <a name="//apple_ref/swift/Property/seasonNumber" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV12seasonNumberSuvp">seasonNumber</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">seasonNumber</span><span class="p">:</span> <span class="kt">UInt</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV9stillPathSSSgvp"></a>
+                    <a name="//apple_ref/swift/Property/stillPath" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV9stillPathSSSgvp">stillPath</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">stillPath</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV11averageVoteSdvp"></a>
+                    <a name="//apple_ref/swift/Property/averageVote" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV11averageVoteSdvp">averageVote</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">averageVote</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV5votesSuvp"></a>
+                    <a name="//apple_ref/swift/Property/votes" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV5votesSuvp">votes</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">votes</span><span class="p">:</span> <span class="kt">UInt</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV7creditsAA7CreditsVSgvp"></a>
+                    <a name="//apple_ref/swift/Property/credits" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV7creditsAA7CreditsVSgvp">credits</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">credits</span><span class="p">:</span> <span class="kt"><a href="../Structs/Credits.html">Credits</a></span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV11externalIDsAA08ExternalE0VSgvp"></a>
+                    <a name="//apple_ref/swift/Property/externalIDs" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV11externalIDsAA08ExternalE0VSgvp">externalIDs</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">externalIDs</span><span class="p">:</span> <span class="kt"><a href="../Structs/ExternalIDs.html">ExternalIDs</a></span><span class="p">?</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV6imagesSayAA5ImageVGvp"></a>
+                    <a name="//apple_ref/swift/Property/images" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV6imagesSayAA5ImageVGvp">images</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">images</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="../Structs/Image.html">Image</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV12translationsSayAA11TranslationVGvp"></a>
+                    <a name="//apple_ref/swift/Property/translations" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV12translationsSayAA11TranslationVGvp">translations</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">translations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="../Structs/Translation.html">Translation</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift9TVEpisodeV6videosSayAA5VideoVGvp"></a>
+                    <a name="//apple_ref/swift/Property/videos" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift9TVEpisodeV6videosSayAA5VideoVGvp">videos</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">videos</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="../Structs/Video.html">Video</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2018 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2018-12-25)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.4</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>

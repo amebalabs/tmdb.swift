@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>TMDB Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/TMDB" class="dashAnchor"></a>
+    <a title="TMDB Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html"> Docs</a> (7% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html"> Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        TMDB Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB.html">TMDB</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/Utility.html">– Utility</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/TV.html">– TV</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/Movies.html">– Movies</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/Common.html">– Common</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TMDB/People.html">– People</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Protocols.html#/s:10tmdb_swift21TMDBImageSizeProtocolP">TMDBImageSizeProtocol</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>TMDB</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TMDB</span></code></pre>
+
+                </div>
+              </div>
+            <p>TMDb API wrapper</p>
+
+<p>Comprised of the following sub-components:</p>
+
+<ul>
+<li>Movies</li>
+<li>TV</li>
+<li>People</li>
+<li>Common</li>
+<li>Utility</li>
+</ul>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift4TMDBC6apiKeySSvpZ"></a>
+                    <a name="//apple_ref/swift/Variable/apiKey" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift4TMDBC6apiKeySSvpZ">apiKey</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>TMDb API Key, to retrieve a key follow instructions <a href="https://developers.themoviedb.org/3/getting-started/authentication">https://developers.themoviedb.org/3/getting-started/authentication</a>
+Override this value or add TMDB_API_KEY to Info.plist</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">var</span> <span class="nv">apiKey</span><span class="p">:</span> <span class="kt">String</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift4TMDBC4langAC6CommonO7ISO6391OvpZ"></a>
+                    <a name="//apple_ref/swift/Variable/lang" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift4TMDBC4langAC6CommonO7ISO6391OvpZ">lang</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>ISO 639-1 value to display translated data for the fields that support it <a href="https://developers.themoviedb.org/3/getting-started/languages">https://developers.themoviedb.org/3/getting-started/languages</a></p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">var</span> <span class="nv">lang</span><span class="p">:</span> <span class="kt">TMDB</span><span class="o">.</span><span class="kt"><a href="../Classes/TMDB/Common.html">Common</a></span><span class="o">.</span><span class="kt">ISO6391</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift4TMDBC7UtilityO"></a>
+                    <a name="//apple_ref/swift/Enum/Utility" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift4TMDBC7UtilityO">Utility</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Helper types and methods</p>
+
+                        <a href="../Classes/TMDB/Utility.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Utility</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift4TMDBC2TVO"></a>
+                    <a name="//apple_ref/swift/Enum/TV" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift4TMDBC2TVO">TV</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Represents data structures and methods for TV related API&rsquo;s</p>
+
+<p>Refer for details:</p>
+
+<ul>
+<li><a href="https://developers.themoviedb.org/3/tv">https://developers.themoviedb.org/3/tv</a></li>
+<li><a href="https://developers.themoviedb.org/3/tv-seasons">https://developers.themoviedb.org/3/tv-seasons</a></li>
+<li><a href="https://developers.themoviedb.org/3/tv-episodes">https://developers.themoviedb.org/3/tv-episodes</a></li>
+</ul>
+
+                        <a href="../Classes/TMDB/TV.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TV</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift4TMDBC6MoviesO"></a>
+                    <a name="//apple_ref/swift/Enum/Movies" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift4TMDBC6MoviesO">Movies</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Represents data structures and methods for Movie related API&rsquo;s</p>
+
+<p>Refer <a href="https://developers.themoviedb.org/3/movies">https://developers.themoviedb.org/3/movies</a> for details</p>
+
+                        <a href="../Classes/TMDB/Movies.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Movies</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift4TMDBC6CommonO"></a>
+                    <a name="//apple_ref/swift/Enum/Common" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift4TMDBC6CommonO">Common</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Common Types used across API</p>
+
+                        <a href="../Classes/TMDB/Common.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Common</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift4TMDBC6PeopleO"></a>
+                    <a name="//apple_ref/swift/Enum/People" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift4TMDBC6PeopleO">People</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Represents data structures and methods for People related API&rsquo;s</p>
+
+<p>Refer <a href="https://developers.themoviedb.org/3/people">https://developers.themoviedb.org/3/people</a> for details</p>
+
+                        <a href="../Classes/TMDB/People.html" class="slightly-smaller">See more</a>
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">People</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10tmdb_swift4TMDBC14ResultCallbacka"></a>
+                    <a name="//apple_ref/swift/Alias/ResultCallback" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10tmdb_swift4TMDBC14ResultCallbacka">ResultCallback</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">ResultCallback</span><span class="o">&lt;</span><span class="kt">Value</span><span class="o">&gt;</span> <span class="o">=</span> <span class="p">(</span><span class="kt">TMDB</span><span class="o">.</span><span class="kt"><a href="../Classes/TMDB/Utility.html">Utility</a></span><span class="o">.</span><span class="kt">Result</span><span class="o">&lt;</span><span class="kt">Value</span><span class="o">&gt;</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2019 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2019-01-19)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.4</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>

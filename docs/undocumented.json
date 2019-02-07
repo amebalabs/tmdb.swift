@@ -1,0 +1,3540 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 4,
+      "symbol": "TMDB.Utility.APIPagedResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 5,
+      "symbol": "TMDB.Utility.APIPagedResponse.Dates",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 6,
+      "symbol": "TMDB.Utility.APIPagedResponse.Dates.minimum",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 7,
+      "symbol": "TMDB.Utility.APIPagedResponse.Dates.maximum",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 9,
+      "symbol": "TMDB.Utility.APIPagedResponse.dates",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 10,
+      "symbol": "TMDB.Utility.APIPagedResponse.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 11,
+      "symbol": "TMDB.Utility.APIPagedResponse.page",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 12,
+      "symbol": "TMDB.Utility.APIPagedResponse.totalPages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 13,
+      "symbol": "TMDB.Utility.APIPagedResponse.totalResults",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/APIPagedResponse.swift",
+      "line": 14,
+      "symbol": "TMDB.Utility.APIPagedResponse.results",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/ResultsCodableWrapper.swift",
+      "line": 4,
+      "symbol": "TMDB.Utility.Results",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/ResultsCodableWrapper.swift",
+      "line": 5,
+      "symbol": "TMDB.Utility.Results.results",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/ResultsCodableWrapper.swift",
+      "line": 10,
+      "symbol": "TMDB.TV.Results",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/APIModel/ResultsCodableWrapper.swift",
+      "line": 14,
+      "symbol": "TMDB.Movies.Results",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ContentRating.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.ContentRating",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ContentRating.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.ContentRating.iso31661",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ContentRating.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.ContentRating.rating",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.Credits",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.Credits.CastMember",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.Credits.CastMember.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 7,
+      "symbol": "TMDB.Common.Credits.CastMember.character",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 8,
+      "symbol": "TMDB.Common.Credits.CastMember.creditId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 9,
+      "symbol": "TMDB.Common.Credits.CastMember.gender",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 10,
+      "symbol": "TMDB.Common.Credits.CastMember.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 11,
+      "symbol": "TMDB.Common.Credits.CastMember.order",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 12,
+      "symbol": "TMDB.Common.Credits.CastMember.profile",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 24,
+      "symbol": "TMDB.Common.Credits.CrewMember",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 25,
+      "symbol": "TMDB.Common.Credits.CrewMember.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 26,
+      "symbol": "TMDB.Common.Credits.CrewMember.creditId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 27,
+      "symbol": "TMDB.Common.Credits.CrewMember.department",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 28,
+      "symbol": "TMDB.Common.Credits.CrewMember.gender",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 29,
+      "symbol": "TMDB.Common.Credits.CrewMember.job",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 30,
+      "symbol": "TMDB.Common.Credits.CrewMember.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 31,
+      "symbol": "TMDB.Common.Credits.CrewMember.profile",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 44,
+      "symbol": "TMDB.Common.Credits.cast",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 45,
+      "symbol": "TMDB.Common.Credits.crew",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Credits.swift",
+      "line": 46,
+      "symbol": "TMDB.Common.Credits.guestStars",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ExternalIDs.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.ExternalIDs",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ExternalIDs.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.ExternalIDs.imdb",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ExternalIDs.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.ExternalIDs.facebook",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ExternalIDs.swift",
+      "line": 7,
+      "symbol": "TMDB.Common.ExternalIDs.instagram",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ExternalIDs.swift",
+      "line": 8,
+      "symbol": "TMDB.Common.ExternalIDs.twitter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Genre.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.Genre",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Genre.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.Genre.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Genre.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.Genre.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.Image",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.Image.ratio",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.Image.path",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 7,
+      "symbol": "TMDB.Common.Image.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 8,
+      "symbol": "TMDB.Common.Image.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 9,
+      "symbol": "TMDB.Common.Image.iso6391",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 10,
+      "symbol": "TMDB.Common.Image.votes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 11,
+      "symbol": "TMDB.Common.Image.averageVote",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 24,
+      "symbol": "TMDB.Common.Images",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 25,
+      "symbol": "TMDB.Common.Images.backdrops",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 26,
+      "symbol": "TMDB.Common.Images.posters",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 30,
+      "symbol": "TMDBImageSizeProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 33,
+      "symbol": "TMDB.Utility.ImageSize",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 34,
+      "symbol": "TMDB.Utility.ImageSize.Backdrop",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 35,
+      "symbol": "TMDB.Utility.ImageSize.Backdrop.w300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 36,
+      "symbol": "TMDB.Utility.ImageSize.Backdrop.w780",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 37,
+      "symbol": "TMDB.Utility.ImageSize.Backdrop.w1280",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 38,
+      "symbol": "TMDB.Utility.ImageSize.Backdrop.original",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 40,
+      "symbol": "TMDB.Utility.ImageSize.Logo",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 41,
+      "symbol": "TMDB.Utility.ImageSize.Logo.w45",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 42,
+      "symbol": "TMDB.Utility.ImageSize.Logo.w92",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 43,
+      "symbol": "TMDB.Utility.ImageSize.Logo.w154",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 44,
+      "symbol": "TMDB.Utility.ImageSize.Logo.w185",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 45,
+      "symbol": "TMDB.Utility.ImageSize.Logo.w300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 46,
+      "symbol": "TMDB.Utility.ImageSize.Logo.w500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 47,
+      "symbol": "TMDB.Utility.ImageSize.Logo.original",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 49,
+      "symbol": "TMDB.Utility.ImageSize.Poster",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 50,
+      "symbol": "TMDB.Utility.ImageSize.Poster.w92",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 51,
+      "symbol": "TMDB.Utility.ImageSize.Poster.w154",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 52,
+      "symbol": "TMDB.Utility.ImageSize.Poster.w185",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 53,
+      "symbol": "TMDB.Utility.ImageSize.Poster.w342",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 54,
+      "symbol": "TMDB.Utility.ImageSize.Poster.w500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 55,
+      "symbol": "TMDB.Utility.ImageSize.Poster.w780",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 56,
+      "symbol": "TMDB.Utility.ImageSize.Poster.original",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 58,
+      "symbol": "TMDB.Utility.ImageSize.Profile",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 59,
+      "symbol": "TMDB.Utility.ImageSize.Profile.w45",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 60,
+      "symbol": "TMDB.Utility.ImageSize.Profile.w185",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 61,
+      "symbol": "TMDB.Utility.ImageSize.Profile.h632",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 62,
+      "symbol": "TMDB.Utility.ImageSize.Profile.original",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 64,
+      "symbol": "TMDB.Utility.ImageSize.Still",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 65,
+      "symbol": "TMDB.Utility.ImageSize.Still.w92",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 66,
+      "symbol": "TMDB.Utility.ImageSize.Still.w185",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 67,
+      "symbol": "TMDB.Utility.ImageSize.Still.w300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Images.swift",
+      "line": 68,
+      "symbol": "TMDB.Utility.ImageSize.Still.original",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Keywords.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.Keyword",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Keywords.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.Keyword.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Keywords.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.Keyword.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.Language",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.Language.iso6391",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.Language.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 13,
+      "symbol": "TMDB.Common.ISO6391",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 14,
+      "symbol": "TMDB.Common.ISO6391.aa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 15,
+      "symbol": "TMDB.Common.ISO6391.ab",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 16,
+      "symbol": "TMDB.Common.ISO6391.ae",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 17,
+      "symbol": "TMDB.Common.ISO6391.af",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 18,
+      "symbol": "TMDB.Common.ISO6391.ak",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 19,
+      "symbol": "TMDB.Common.ISO6391.am",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 20,
+      "symbol": "TMDB.Common.ISO6391.an",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 21,
+      "symbol": "TMDB.Common.ISO6391.ar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 22,
+      "symbol": "TMDB.Common.ISO6391.as",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 23,
+      "symbol": "TMDB.Common.ISO6391.av",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 24,
+      "symbol": "TMDB.Common.ISO6391.ay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 25,
+      "symbol": "TMDB.Common.ISO6391.az",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 26,
+      "symbol": "TMDB.Common.ISO6391.ba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 27,
+      "symbol": "TMDB.Common.ISO6391.be",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 28,
+      "symbol": "TMDB.Common.ISO6391.bg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 29,
+      "symbol": "TMDB.Common.ISO6391.bh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 30,
+      "symbol": "TMDB.Common.ISO6391.bi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 31,
+      "symbol": "TMDB.Common.ISO6391.bm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 32,
+      "symbol": "TMDB.Common.ISO6391.bn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 33,
+      "symbol": "TMDB.Common.ISO6391.bo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 34,
+      "symbol": "TMDB.Common.ISO6391.br",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 35,
+      "symbol": "TMDB.Common.ISO6391.bs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 36,
+      "symbol": "TMDB.Common.ISO6391.ca",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 37,
+      "symbol": "TMDB.Common.ISO6391.ce",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 38,
+      "symbol": "TMDB.Common.ISO6391.ch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 39,
+      "symbol": "TMDB.Common.ISO6391.co",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 40,
+      "symbol": "TMDB.Common.ISO6391.cr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 41,
+      "symbol": "TMDB.Common.ISO6391.cs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 42,
+      "symbol": "TMDB.Common.ISO6391.cu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 43,
+      "symbol": "TMDB.Common.ISO6391.cv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 44,
+      "symbol": "TMDB.Common.ISO6391.cy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 45,
+      "symbol": "TMDB.Common.ISO6391.da",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 46,
+      "symbol": "TMDB.Common.ISO6391.de",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 47,
+      "symbol": "TMDB.Common.ISO6391.dv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 48,
+      "symbol": "TMDB.Common.ISO6391.dz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 49,
+      "symbol": "TMDB.Common.ISO6391.ee",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 50,
+      "symbol": "TMDB.Common.ISO6391.el",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 51,
+      "symbol": "TMDB.Common.ISO6391.en",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 52,
+      "symbol": "TMDB.Common.ISO6391.eo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 53,
+      "symbol": "TMDB.Common.ISO6391.es",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 54,
+      "symbol": "TMDB.Common.ISO6391.et",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 55,
+      "symbol": "TMDB.Common.ISO6391.eu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 56,
+      "symbol": "TMDB.Common.ISO6391.fa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 57,
+      "symbol": "TMDB.Common.ISO6391.ff",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 58,
+      "symbol": "TMDB.Common.ISO6391.fi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 59,
+      "symbol": "TMDB.Common.ISO6391.fj",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 60,
+      "symbol": "TMDB.Common.ISO6391.fo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 61,
+      "symbol": "TMDB.Common.ISO6391.fr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 62,
+      "symbol": "TMDB.Common.ISO6391.fy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 63,
+      "symbol": "TMDB.Common.ISO6391.ga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 64,
+      "symbol": "TMDB.Common.ISO6391.gd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 65,
+      "symbol": "TMDB.Common.ISO6391.gl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 66,
+      "symbol": "TMDB.Common.ISO6391.gn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 67,
+      "symbol": "TMDB.Common.ISO6391.gu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 68,
+      "symbol": "TMDB.Common.ISO6391.gv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 69,
+      "symbol": "TMDB.Common.ISO6391.ha",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 70,
+      "symbol": "TMDB.Common.ISO6391.he",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 71,
+      "symbol": "TMDB.Common.ISO6391.hi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 72,
+      "symbol": "TMDB.Common.ISO6391.ho",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 73,
+      "symbol": "TMDB.Common.ISO6391.hr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 74,
+      "symbol": "TMDB.Common.ISO6391.ht",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 75,
+      "symbol": "TMDB.Common.ISO6391.hu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 76,
+      "symbol": "TMDB.Common.ISO6391.hy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 77,
+      "symbol": "TMDB.Common.ISO6391.hz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 78,
+      "symbol": "TMDB.Common.ISO6391.ia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 79,
+      "symbol": "TMDB.Common.ISO6391.id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 80,
+      "symbol": "TMDB.Common.ISO6391.ie",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 81,
+      "symbol": "TMDB.Common.ISO6391.ig",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 82,
+      "symbol": "TMDB.Common.ISO6391.ii",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 83,
+      "symbol": "TMDB.Common.ISO6391.ik",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 84,
+      "symbol": "TMDB.Common.ISO6391.io",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 85,
+      "symbol": "TMDB.Common.ISO6391.is",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 86,
+      "symbol": "TMDB.Common.ISO6391.it",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 87,
+      "symbol": "TMDB.Common.ISO6391.iu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 88,
+      "symbol": "TMDB.Common.ISO6391.ja",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 89,
+      "symbol": "TMDB.Common.ISO6391.jv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 90,
+      "symbol": "TMDB.Common.ISO6391.ka",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 91,
+      "symbol": "TMDB.Common.ISO6391.kg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 92,
+      "symbol": "TMDB.Common.ISO6391.ki",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 93,
+      "symbol": "TMDB.Common.ISO6391.kj",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 94,
+      "symbol": "TMDB.Common.ISO6391.kk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 95,
+      "symbol": "TMDB.Common.ISO6391.kl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 96,
+      "symbol": "TMDB.Common.ISO6391.km",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 97,
+      "symbol": "TMDB.Common.ISO6391.kn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 98,
+      "symbol": "TMDB.Common.ISO6391.ko",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 99,
+      "symbol": "TMDB.Common.ISO6391.kr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 100,
+      "symbol": "TMDB.Common.ISO6391.ks",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 101,
+      "symbol": "TMDB.Common.ISO6391.ku",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 102,
+      "symbol": "TMDB.Common.ISO6391.kv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 103,
+      "symbol": "TMDB.Common.ISO6391.kw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 104,
+      "symbol": "TMDB.Common.ISO6391.ky",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 105,
+      "symbol": "TMDB.Common.ISO6391.la",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 106,
+      "symbol": "TMDB.Common.ISO6391.lb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 107,
+      "symbol": "TMDB.Common.ISO6391.lg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 108,
+      "symbol": "TMDB.Common.ISO6391.li",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 109,
+      "symbol": "TMDB.Common.ISO6391.ln",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 110,
+      "symbol": "TMDB.Common.ISO6391.lo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 111,
+      "symbol": "TMDB.Common.ISO6391.lt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 112,
+      "symbol": "TMDB.Common.ISO6391.lu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 113,
+      "symbol": "TMDB.Common.ISO6391.lv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 114,
+      "symbol": "TMDB.Common.ISO6391.mg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 115,
+      "symbol": "TMDB.Common.ISO6391.mh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 116,
+      "symbol": "TMDB.Common.ISO6391.mi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 117,
+      "symbol": "TMDB.Common.ISO6391.mk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 118,
+      "symbol": "TMDB.Common.ISO6391.ml",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 119,
+      "symbol": "TMDB.Common.ISO6391.mn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 120,
+      "symbol": "TMDB.Common.ISO6391.mr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 121,
+      "symbol": "TMDB.Common.ISO6391.ms",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 122,
+      "symbol": "TMDB.Common.ISO6391.mt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 123,
+      "symbol": "TMDB.Common.ISO6391.my",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 124,
+      "symbol": "TMDB.Common.ISO6391.na",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 125,
+      "symbol": "TMDB.Common.ISO6391.nb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 126,
+      "symbol": "TMDB.Common.ISO6391.nd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 127,
+      "symbol": "TMDB.Common.ISO6391.ne",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 128,
+      "symbol": "TMDB.Common.ISO6391.ng",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 129,
+      "symbol": "TMDB.Common.ISO6391.nl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 130,
+      "symbol": "TMDB.Common.ISO6391.nn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 131,
+      "symbol": "TMDB.Common.ISO6391.no",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 132,
+      "symbol": "TMDB.Common.ISO6391.nr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 133,
+      "symbol": "TMDB.Common.ISO6391.nv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 134,
+      "symbol": "TMDB.Common.ISO6391.ny",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 135,
+      "symbol": "TMDB.Common.ISO6391.oc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 136,
+      "symbol": "TMDB.Common.ISO6391.oj",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 137,
+      "symbol": "TMDB.Common.ISO6391.om",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 138,
+      "symbol": "TMDB.Common.ISO6391.or",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 139,
+      "symbol": "TMDB.Common.ISO6391.os",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 140,
+      "symbol": "TMDB.Common.ISO6391.pa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 141,
+      "symbol": "TMDB.Common.ISO6391.pi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 142,
+      "symbol": "TMDB.Common.ISO6391.pl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 143,
+      "symbol": "TMDB.Common.ISO6391.ps",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 144,
+      "symbol": "TMDB.Common.ISO6391.pt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 145,
+      "symbol": "TMDB.Common.ISO6391.qu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 146,
+      "symbol": "TMDB.Common.ISO6391.rm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 147,
+      "symbol": "TMDB.Common.ISO6391.rn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 148,
+      "symbol": "TMDB.Common.ISO6391.ro",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 149,
+      "symbol": "TMDB.Common.ISO6391.ru",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 150,
+      "symbol": "TMDB.Common.ISO6391.rw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 151,
+      "symbol": "TMDB.Common.ISO6391.sa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 152,
+      "symbol": "TMDB.Common.ISO6391.sc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 153,
+      "symbol": "TMDB.Common.ISO6391.sd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 154,
+      "symbol": "TMDB.Common.ISO6391.se",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 155,
+      "symbol": "TMDB.Common.ISO6391.sg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 156,
+      "symbol": "TMDB.Common.ISO6391.si",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 157,
+      "symbol": "TMDB.Common.ISO6391.sk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 158,
+      "symbol": "TMDB.Common.ISO6391.sl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 159,
+      "symbol": "TMDB.Common.ISO6391.sm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 160,
+      "symbol": "TMDB.Common.ISO6391.sn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 161,
+      "symbol": "TMDB.Common.ISO6391.so",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 162,
+      "symbol": "TMDB.Common.ISO6391.sq",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 163,
+      "symbol": "TMDB.Common.ISO6391.sr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 164,
+      "symbol": "TMDB.Common.ISO6391.ss",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 165,
+      "symbol": "TMDB.Common.ISO6391.st",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 166,
+      "symbol": "TMDB.Common.ISO6391.su",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 167,
+      "symbol": "TMDB.Common.ISO6391.sv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 168,
+      "symbol": "TMDB.Common.ISO6391.sw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 169,
+      "symbol": "TMDB.Common.ISO6391.ta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 170,
+      "symbol": "TMDB.Common.ISO6391.te",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 171,
+      "symbol": "TMDB.Common.ISO6391.tg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 172,
+      "symbol": "TMDB.Common.ISO6391.th",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 173,
+      "symbol": "TMDB.Common.ISO6391.ti",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 174,
+      "symbol": "TMDB.Common.ISO6391.tk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 175,
+      "symbol": "TMDB.Common.ISO6391.tl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 176,
+      "symbol": "TMDB.Common.ISO6391.tn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 177,
+      "symbol": "TMDB.Common.ISO6391.to",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 178,
+      "symbol": "TMDB.Common.ISO6391.tr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 179,
+      "symbol": "TMDB.Common.ISO6391.ts",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 180,
+      "symbol": "TMDB.Common.ISO6391.tt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 181,
+      "symbol": "TMDB.Common.ISO6391.tw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 182,
+      "symbol": "TMDB.Common.ISO6391.ty",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 183,
+      "symbol": "TMDB.Common.ISO6391.ug",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 184,
+      "symbol": "TMDB.Common.ISO6391.uk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 185,
+      "symbol": "TMDB.Common.ISO6391.ur",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 186,
+      "symbol": "TMDB.Common.ISO6391.uz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 187,
+      "symbol": "TMDB.Common.ISO6391.ve",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 188,
+      "symbol": "TMDB.Common.ISO6391.vi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 189,
+      "symbol": "TMDB.Common.ISO6391.vo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 190,
+      "symbol": "TMDB.Common.ISO6391.wa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 191,
+      "symbol": "TMDB.Common.ISO6391.wo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 192,
+      "symbol": "TMDB.Common.ISO6391.xh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 193,
+      "symbol": "TMDB.Common.ISO6391.yi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 194,
+      "symbol": "TMDB.Common.ISO6391.yo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 195,
+      "symbol": "TMDB.Common.ISO6391.za",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 196,
+      "symbol": "TMDB.Common.ISO6391.zh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Language.swift",
+      "line": 197,
+      "symbol": "TMDB.Common.ISO6391.zu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ProductionCompany.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.ProductionCompany",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ProductionCompany.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.ProductionCompany.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ProductionCompany.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.ProductionCompany.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ProductionCompany.swift",
+      "line": 7,
+      "symbol": "TMDB.Common.ProductionCompany.logo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/ProductionCompany.swift",
+      "line": 8,
+      "symbol": "TMDB.Common.ProductionCompany.country",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Review.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.Review",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Review.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.Review.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Review.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.Review.author",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Review.swift",
+      "line": 7,
+      "symbol": "TMDB.Common.Review.content",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Review.swift",
+      "line": 8,
+      "symbol": "TMDB.Common.Review.url",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Titles.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.Title",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Titles.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.Title.iso31661",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Titles.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.Title.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Titles.swift",
+      "line": 7,
+      "symbol": "TMDB.Common.Title.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.Translation",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.Translation.Info",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.Translation.Info.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 7,
+      "symbol": "TMDB.Common.Translation.Info.overview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 8,
+      "symbol": "TMDB.Common.Translation.Info.homepage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 15,
+      "symbol": "TMDB.Common.Translation.iso6391",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 16,
+      "symbol": "TMDB.Common.Translation.iso31661",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 17,
+      "symbol": "TMDB.Common.Translation.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 18,
+      "symbol": "TMDB.Common.Translation.englishName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Translation.swift",
+      "line": 19,
+      "symbol": "TMDB.Common.Translation.info",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 4,
+      "symbol": "TMDB.Common.Video",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 5,
+      "symbol": "TMDB.Common.Video.Category",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 6,
+      "symbol": "TMDB.Common.Video.Category.trailer",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 7,
+      "symbol": "TMDB.Common.Video.Category.teaser",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 8,
+      "symbol": "TMDB.Common.Video.Category.clip",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 9,
+      "symbol": "TMDB.Common.Video.Category.featurette",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 10,
+      "symbol": "TMDB.Common.Video.Category.openingCredits",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 12,
+      "symbol": "TMDB.Common.Video.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 13,
+      "symbol": "TMDB.Common.Video.iso6391",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 14,
+      "symbol": "TMDB.Common.Video.iso31661",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 15,
+      "symbol": "TMDB.Common.Video.key",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 16,
+      "symbol": "TMDB.Common.Video.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 17,
+      "symbol": "TMDB.Common.Video.site",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 18,
+      "symbol": "TMDB.Common.Video.size",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Common/Videos.swift",
+      "line": 19,
+      "symbol": "TMDB.Common.Video.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/List.swift",
+      "line": 4,
+      "symbol": "TMDB.Movies.List",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/List.swift",
+      "line": 5,
+      "symbol": "TMDB.Movies.List.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/List.swift",
+      "line": 6,
+      "symbol": "TMDB.Movies.List.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/List.swift",
+      "line": 7,
+      "symbol": "TMDB.Movies.List.favoriteCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/List.swift",
+      "line": 8,
+      "symbol": "TMDB.Movies.List.itemCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/List.swift",
+      "line": 9,
+      "symbol": "TMDB.Movies.List.iso6391",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/List.swift",
+      "line": 10,
+      "symbol": "TMDB.Movies.List.listType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/List.swift",
+      "line": 11,
+      "symbol": "TMDB.Movies.List.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/List.swift",
+      "line": 12,
+      "symbol": "TMDB.Movies.List.poster",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": null,
+      "symbol": "TMDB.Movies.Movie",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 4,
+      "symbol": "TMDB.Movies.Movie",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 5,
+      "symbol": "TMDB.Movies.Movie.ReleaseDate",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 6,
+      "symbol": "TMDB.Movies.Movie.ReleaseDate.certification",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 7,
+      "symbol": "TMDB.Movies.Movie.ReleaseDate.iso6391",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 8,
+      "symbol": "TMDB.Movies.Movie.ReleaseDate.date",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 9,
+      "symbol": "TMDB.Movies.Movie.ReleaseDate.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 10,
+      "symbol": "TMDB.Movies.Movie.ReleaseDate.note",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 21,
+      "symbol": "TMDB.Movies.Movie.ReleaseDates",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 22,
+      "symbol": "TMDB.Movies.Movie.ReleaseDates.iso31661",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 23,
+      "symbol": "TMDB.Movies.Movie.ReleaseDates.releaseDates",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 30,
+      "symbol": "TMDB.Movies.Movie.ProductionCountry",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 31,
+      "symbol": "TMDB.Movies.Movie.ProductionCountry.iso31661",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 32,
+      "symbol": "TMDB.Movies.Movie.ProductionCountry.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 40,
+      "symbol": "TMDB.Movies.Movie.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 41,
+      "symbol": "TMDB.Movies.Movie.Status.rumored",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 42,
+      "symbol": "TMDB.Movies.Movie.Status.planned",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 43,
+      "symbol": "TMDB.Movies.Movie.Status.inProduction",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 44,
+      "symbol": "TMDB.Movies.Movie.Status.postProduction",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 45,
+      "symbol": "TMDB.Movies.Movie.Status.released",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 46,
+      "symbol": "TMDB.Movies.Movie.Status.canceled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 49,
+      "symbol": "TMDB.Movies.Movie.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 51,
+      "symbol": "TMDB.Movies.Movie.adult",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 52,
+      "symbol": "TMDB.Movies.Movie.budget",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 53,
+      "symbol": "TMDB.Movies.Movie.overview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 54,
+      "symbol": "TMDB.Movies.Movie.release",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 55,
+      "symbol": "TMDB.Movies.Movie.genres",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 56,
+      "symbol": "TMDB.Movies.Movie.homepage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 57,
+      "symbol": "TMDB.Movies.Movie.originalTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 58,
+      "symbol": "TMDB.Movies.Movie.originalLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 59,
+      "symbol": "TMDB.Movies.Movie.spokenLanguages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 60,
+      "symbol": "TMDB.Movies.Movie.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 62,
+      "symbol": "TMDB.Movies.Movie.popularity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 63,
+      "symbol": "TMDB.Movies.Movie.productionCompanies",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 64,
+      "symbol": "TMDB.Movies.Movie.productionCountries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 65,
+      "symbol": "TMDB.Movies.Movie.votes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 66,
+      "symbol": "TMDB.Movies.Movie.revenue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 67,
+      "symbol": "TMDB.Movies.Movie.runtime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 68,
+      "symbol": "TMDB.Movies.Movie.video",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 69,
+      "symbol": "TMDB.Movies.Movie.averageVote",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 70,
+      "symbol": "TMDB.Movies.Movie.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 71,
+      "symbol": "TMDB.Movies.Movie.tagline",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 72,
+      "symbol": "TMDB.Movies.Movie.titles",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 73,
+      "symbol": "TMDB.Movies.Movie.images",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 75,
+      "symbol": "TMDB.Movies.Movie.keywords",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 78,
+      "symbol": "TMDB.Movies.Movie.credits",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 80,
+      "symbol": "TMDB.Movies.Movie.releaseDates",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 83,
+      "symbol": "TMDB.Movies.Movie.externalIDs",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 85,
+      "symbol": "TMDB.Movies.Movie.recommendations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 89,
+      "symbol": "TMDB.Movies.Movie.similar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 93,
+      "symbol": "TMDB.Movies.Movie.reviews",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 135,
+      "symbol": "TMDB.Movies.Movie.posterURL(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/Movie/Movie.swift",
+      "line": 138,
+      "symbol": "TMDB.Movies.Movie.backdropURL(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": null,
+      "symbol": "TMDB.People.Person",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 4,
+      "symbol": "TMDB.People.Person",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 8,
+      "symbol": "TMDB.People.Person.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 9,
+      "symbol": "TMDB.People.Person.birthday",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 10,
+      "symbol": "TMDB.People.Person.department",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 11,
+      "symbol": "TMDB.People.Person.deathday",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 12,
+      "symbol": "TMDB.People.Person.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 13,
+      "symbol": "TMDB.People.Person.altNames",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 14,
+      "symbol": "TMDB.People.Person.gender",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 15,
+      "symbol": "TMDB.People.Person.biography",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 16,
+      "symbol": "TMDB.People.Person.popularity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 17,
+      "symbol": "TMDB.People.Person.birthPlace",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 19,
+      "symbol": "TMDB.People.Person.adult",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 20,
+      "symbol": "TMDB.People.Person.imdb",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 21,
+      "symbol": "TMDB.People.Person.homepage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 22,
+      "symbol": "TMDB.People.Person.externalIDs",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 24,
+      "symbol": "TMDB.People.Person.images",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/People/Person.swift",
+      "line": 50,
+      "symbol": "TMDB.People.Person.profileURL(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": null,
+      "symbol": "TMDB.TV.TVEpisode",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 4,
+      "symbol": "TMDB.TV.TVEpisode",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 8,
+      "symbol": "TMDB.TV.TVEpisode.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 9,
+      "symbol": "TMDB.TV.TVEpisode.airDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 10,
+      "symbol": "TMDB.TV.TVEpisode.crew",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 11,
+      "symbol": "TMDB.TV.TVEpisode.number",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 12,
+      "symbol": "TMDB.TV.TVEpisode.guestStars",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 13,
+      "symbol": "TMDB.TV.TVEpisode.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 14,
+      "symbol": "TMDB.TV.TVEpisode.overview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 15,
+      "symbol": "TMDB.TV.TVEpisode.productionCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 16,
+      "symbol": "TMDB.TV.TVEpisode.seasonNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 18,
+      "symbol": "TMDB.TV.TVEpisode.averageVote",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 19,
+      "symbol": "TMDB.TV.TVEpisode.votes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 20,
+      "symbol": "TMDB.TV.TVEpisode.credits",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 21,
+      "symbol": "TMDB.TV.TVEpisode.externalIDs",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 23,
+      "symbol": "TMDB.TV.TVEpisode.images",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 27,
+      "symbol": "TMDB.TV.TVEpisode.translations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 31,
+      "symbol": "TMDB.TV.TVEpisode.videos",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVEpisode.swift",
+      "line": 58,
+      "symbol": "TMDB.TV.TVEpisode.stillURL(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVNetwork.swift",
+      "line": 4,
+      "symbol": "TMDB.TV.TVNetwork",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVNetwork.swift",
+      "line": 5,
+      "symbol": "TMDB.TV.TVNetwork.Logo",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVNetwork.swift",
+      "line": 6,
+      "symbol": "TMDB.TV.TVNetwork.Logo.ratio",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVNetwork.swift",
+      "line": 7,
+      "symbol": "TMDB.TV.TVNetwork.Logo.path",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVNetwork.swift",
+      "line": 15,
+      "symbol": "TMDB.TV.TVNetwork.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVNetwork.swift",
+      "line": 16,
+      "symbol": "TMDB.TV.TVNetwork.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVNetwork.swift",
+      "line": 17,
+      "symbol": "TMDB.TV.TVNetwork.logoAlt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVNetwork.swift",
+      "line": 18,
+      "symbol": "TMDB.TV.TVNetwork.logo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVNetwork.swift",
+      "line": 19,
+      "symbol": "TMDB.TV.TVNetwork.country",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": null,
+      "symbol": "TMDB.TV.TVSeason",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": 4,
+      "symbol": "TMDB.TV.TVSeason",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": 5,
+      "symbol": "TMDB.TV.TVSeason.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": 6,
+      "symbol": "TMDB.TV.TVSeason.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": 8,
+      "symbol": "TMDB.TV.TVSeason.airDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": 9,
+      "symbol": "TMDB.TV.TVSeason.episodeCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": 10,
+      "symbol": "TMDB.TV.TVSeason.overview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": 11,
+      "symbol": "TMDB.TV.TVSeason.number",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": 12,
+      "symbol": "TMDB.TV.TVSeason.episodes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVSeason.swift",
+      "line": 28,
+      "symbol": "TMDB.TV.TVSeason.posterURL(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": null,
+      "symbol": "TMDB.TV.TVShow",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 4,
+      "symbol": "TMDB.TV.TVShow",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 5,
+      "symbol": "TMDB.TV.TVShow.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 7,
+      "symbol": "TMDB.TV.TVShow.episodeRuntime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 8,
+      "symbol": "TMDB.TV.TVShow.firstAir",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 9,
+      "symbol": "TMDB.TV.TVShow.lastAir",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 10,
+      "symbol": "TMDB.TV.TVShow.lastEpisode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 11,
+      "symbol": "TMDB.TV.TVShow.nextEpisode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 12,
+      "symbol": "TMDB.TV.TVShow.numberOfEpisodes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 13,
+      "symbol": "TMDB.TV.TVShow.numberOfSeasons",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 14,
+      "symbol": "TMDB.TV.TVShow.inProduction",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 15,
+      "symbol": "TMDB.TV.TVShow.languages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 16,
+      "symbol": "TMDB.TV.TVShow.overview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 17,
+      "symbol": "TMDB.TV.TVShow.genres",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 18,
+      "symbol": "TMDB.TV.TVShow.homepage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 19,
+      "symbol": "TMDB.TV.TVShow.originalTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 20,
+      "symbol": "TMDB.TV.TVShow.originalLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 21,
+      "symbol": "TMDB.TV.TVShow.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 23,
+      "symbol": "TMDB.TV.TVShow.popularity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 24,
+      "symbol": "TMDB.TV.TVShow.productionCompanies",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 25,
+      "symbol": "TMDB.TV.TVShow.votes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 26,
+      "symbol": "TMDB.TV.TVShow.averageVote",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 27,
+      "symbol": "TMDB.TV.TVShow.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 29,
+      "symbol": "TMDB.TV.TVShow.titles",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 34,
+      "symbol": "TMDB.TV.TVShow.videos",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 37,
+      "symbol": "TMDB.TV.TVShow.images",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 39,
+      "symbol": "TMDB.TV.TVShow.keywords",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 43,
+      "symbol": "TMDB.TV.TVShow.credits",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 46,
+      "symbol": "TMDB.TV.TVShow.contentRating",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 49,
+      "symbol": "TMDB.TV.TVShow.externalIDs",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 51,
+      "symbol": "TMDB.TV.TVShow.translations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 54,
+      "symbol": "TMDB.TV.TVShow.originCountry",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 55,
+      "symbol": "TMDB.TV.TVShow.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 56,
+      "symbol": "TMDB.TV.TVShow.networks",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 57,
+      "symbol": "TMDB.TV.TVShow.seasons",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 60,
+      "symbol": "TMDB.TV.TVShow.recommendations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 64,
+      "symbol": "TMDB.TV.TVShow.similar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 68,
+      "symbol": "TMDB.TV.TVShow.reviews",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 116,
+      "symbol": "TMDB.TV.TVShow.posterURL(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Model/TV/TVShow.swift",
+      "line": 119,
+      "symbol": "TMDB.TV.TVShow.backdropURL(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 8,
+      "symbol": "TMDB.Movies.APIPagedResponse",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 10,
+      "symbol": "TMDB.Movies.getDetails(_:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 16,
+      "symbol": "TMDB.Movies.getReviews(_:page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 22,
+      "symbol": "TMDB.Movies.getRecommendations(_:page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 28,
+      "symbol": "TMDB.Movies.getSimilar(_:page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 34,
+      "symbol": "TMDB.Movies.getLists(_:page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 40,
+      "symbol": "TMDB.Movies.getLatest(completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 46,
+      "symbol": "TMDB.Movies.getNowPlaying(page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 52,
+      "symbol": "TMDB.Movies.getPopular(page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 58,
+      "symbol": "TMDB.Movies.getTopRated(page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Movies.swift",
+      "line": 64,
+      "symbol": "TMDB.Movies.getUpcoming(page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+People.swift",
+      "line": 8,
+      "symbol": "TMDB.People.getDetails(_:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 11,
+      "symbol": "TMDB.TV.APIPagedResponse",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 13,
+      "symbol": "TMDB.TV.getDetails(_:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 19,
+      "symbol": "TMDB.TV.getSeasonDetails(_:season:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 25,
+      "symbol": "TMDB.TV.getEpisodeDetails(_:season:episode:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 31,
+      "symbol": "TMDB.TV.getRecommendations(_:page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 37,
+      "symbol": "TMDB.TV.getSimilar(_:page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 43,
+      "symbol": "TMDB.TV.getLatest(completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 49,
+      "symbol": "TMDB.TV.getAiringToday(page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 55,
+      "symbol": "TMDB.TV.getOnAir(page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 61,
+      "symbol": "TMDB.TV.getPopular(page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+TV.swift",
+      "line": 67,
+      "symbol": "TMDB.TV.getTopRated(page:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Requests/TMDB+Utility.swift",
+      "line": 6,
+      "symbol": "TMDB.Utility.getImageURL(_:size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Utils/Result.swift",
+      "line": 4,
+      "symbol": "TMDB.Utility.Result",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Utils/Result.swift",
+      "line": 5,
+      "symbol": "TMDB.Utility.Result.success(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Utils/Result.swift",
+      "line": 6,
+      "symbol": "TMDB.Utility.Result.failure(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift/tmdb.swift/Utils/Result.swift",
+      "line": 10,
+      "symbol": "TMDB.ResultCallback",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/melonamin/Library/Mobile Documents/com~apple~CloudDocs/Projects/melonamin/tmdb.swift"
+}
