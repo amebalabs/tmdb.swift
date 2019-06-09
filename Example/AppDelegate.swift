@@ -1,5 +1,5 @@
 import UIKit
-import tmdb_swift
+import TMDB
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

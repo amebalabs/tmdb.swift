@@ -1,5 +1,5 @@
 import XCTest
-@testable import tmdb_swift
+@testable import TMDB
 
 class TMDBTVTests: XCTestCase {
     override func setUp() {

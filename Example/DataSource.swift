@@ -1,5 +1,5 @@
 import UIKit
-import tmdb_swift
+import TMDB
 
 typealias TableDataSource = UITableViewDataSource & UITableViewDelegate
 

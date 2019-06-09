@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import tmdb_swift
+import TMDB
 
 class DetailsViewController: UIViewController {
     var item: Media!

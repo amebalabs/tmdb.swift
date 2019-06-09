@@ -1,5 +1,5 @@
 import UIKit
-import tmdb_swift
+import TMDB
 
 class ViewController: UIViewController {
 
