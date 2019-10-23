@@ -21,7 +21,7 @@ https://www.themoviedb.org API wrapper
 
 ### CocoaPods
 
-AppVersion is available through [CocoaPods](http://cocoapods.org). To install it add the following line to your Podfile:
+TMDB is available through [CocoaPods](http://cocoapods.org). To install it add the following line to your Podfile:
 
 ```ruby
 pod "tmdb.swift"
